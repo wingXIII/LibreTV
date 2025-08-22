@@ -113,6 +113,14 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    hn: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛资源2'
+    },
+    myzy: {
+        api: 'https://www.maoyanzy.top/api.php/provide/vod',
+        name: '猫眼资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
